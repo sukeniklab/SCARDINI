@@ -26,7 +26,7 @@ echo "Step 4: Installing parrot (SPARROW dependency)..."
 pip install git+https://github.com/idptools/parrot.git
 
 echo "Step 5: Installing localCIDER..."
-pip install localcider==0.1.20
+pip install localcider
 
 echo "Step 6: Installing SPARROW..."
 pip install git+https://github.com/idptools/sparrow.git
