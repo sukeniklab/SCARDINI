@@ -9,7 +9,7 @@ This script creates a combined csv of Sparrow, CIDER, and NARDINI+ sequence para
 2) Install the conda environment:
 
 ```
-conda create -f environment.yml
+conda env create -f environment.yml
 ```
 3) Open the ipynb file with VSCode or similar
 4) Run!
